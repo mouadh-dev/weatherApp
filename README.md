@@ -1,4 +1,3 @@
-# weatherApp
 # 🌦️ WeatherApp
 
 ## 📝 Project Description
